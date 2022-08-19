@@ -1,4 +1,5 @@
 # 411_Blog_10
+
 Class 10
 Discuss in words something you learned in class today or this week.
   I've been learning more about the interview problems. Redux is difficult to learn and I'm trying to get the hang of it.
